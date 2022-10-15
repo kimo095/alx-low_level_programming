@@ -6,7 +6,7 @@
 /* betty style doc for function main goes there */
 /**
  * main - entry point
- * Description : This will return zero if it is equal to zero and positive if it is greater than zero and negative in case of less than zero.
+ * Description : This will return zero or-positive_or_negative.
  * Return: 0
  */
 int main(void)
